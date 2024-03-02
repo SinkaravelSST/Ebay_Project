@@ -25,11 +25,4 @@ public class HooksClass extends BaseClass {
 		closeBrowser();
 	}
 	
-	public static void main(String[] args) {
-		
-		WebDriver driver = new ChromeDriver();
-		driver.findElement(By.cssSelector(""));;
-		
-	}
-
 }
